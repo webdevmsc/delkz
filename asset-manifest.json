@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/delkz/static/css/main.2f6ece4f.css",
+    "main.js": "/delkz/static/js/main.8456bdf3.js",
+    "static/js/787.662b3091.chunk.js": "/delkz/static/js/787.662b3091.chunk.js",
+    "static/media/logo.svg": "/delkz/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/delkz/index.html",
+    "main.2f6ece4f.css.map": "/delkz/static/css/main.2f6ece4f.css.map",
+    "main.8456bdf3.js.map": "/delkz/static/js/main.8456bdf3.js.map",
+    "787.662b3091.chunk.js.map": "/delkz/static/js/787.662b3091.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2f6ece4f.css",
+    "static/js/main.8456bdf3.js"
+  ]
+}
